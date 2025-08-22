@@ -29,7 +29,7 @@ In this project, you will:
     ![sreenshot](images/data.png)
     ![sreenshot](images/specifics.png)
     ![sreenshot](images/analystdet.png)
-    ![sreenshot](images/analystcreat.png)
+    ![sreenshot](images/analyscreat.png)
     ![sreenshot](images/analy.png)
     
 
@@ -41,7 +41,7 @@ In this project, you will:
 ##Create custom user group: for Data-Team
 ![sreenshot](images/ug.png)
 ![sreenshot](images/datateam.png)
-![sreenshot](images/datacreartt.png)
+![sreenshot](images/datacreatt.png)
 
 
 
@@ -67,14 +67,14 @@ In this project, you will:
    ![sreenshot](images/passwrd.png)
    ![sreenshot](images/maryt.png)
    ![sreenshot](images/iamlogin.png)
-```7. Assign policies to users.
+##Assign policies to users.
    ![sreenshot](images/.png)
    ![sreenshot](images/.png)
 ![sreenshot](images/.png)
-```
+
 8. Validate permissions for each user.
    ##User John
-   ![sreenshot](images/johnsignin.png)
+   ![sreenshot](images/johhnsignin.png)
    ![sreenshot](images/changepd.png)
    ![sreenshot](images/changepd.png)
    ![sreenshot](images/psswdchanged.png)
